@@ -7,7 +7,7 @@ public class Main {
 
         // логика
         System.out.println("количство начисленных миль:");
-        System.out.println(priceTicket/bonus);
-}
+        System.out.println(priceTicket / bonus);
+    }
 }
 
